@@ -5,6 +5,7 @@
 // @match        https://kirka.io/*
 // @grant        none
 // @run-at       document-start
+// @icon         https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWhk7DN3vnngGsjAyT1jrOFNVdU0Bo7qR4w&usqp=CAU
 // @require      https://cdn.jsdelivr.net/npm/three@0.155.0/build/three.min.js#sha256-ec0a84377f1dce9d55b98f04ac7057376fa5371c33ab1cd907b85ae5f18fab7e
 // @require      https://code.jquery.com/jquery-3.7.0.min.js
 // ==/UserScript==
