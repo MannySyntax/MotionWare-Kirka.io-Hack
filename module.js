@@ -5,7 +5,7 @@
 // @match        https://kirka.io/*
 // @grant        none
 // @run-at       document-start
-// @icon         https://static.wikia.nocookie.net/kirkaio/images/9/9e/Devwiki.png/revision/latest/smart/width/371/height/332?cb=20220512122039
+// @icon         https://static.wikia.nocookie.net/kirkaio/images/9/9e/Devwiki.png/revision/latest/scale-to-width-down/172?cb=20220512122039
 // @require      https://cdn.jsdelivr.net/npm/three@0.155.0/build/three.min.js#sha256-ec0a84377f1dce9d55b98f04ac7057376fa5371c33ab1cd907b85ae5f18fab7e
 // @require      https://code.jquery.com/jquery-3.7.0.min.js
 // ==/UserScript==
