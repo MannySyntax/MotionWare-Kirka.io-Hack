@@ -8,9 +8,9 @@ The newest &amp; best kirka.io hack. Includes Aimbot, ESP &amp; Tracers.
   - Charms
 
 **Coming Soon**
-    - Funny Chat
-    - Wireframe
-    - Skin Changer
+   - Funny Chat
+   - Wireframe
+   - Skin Changer
 
 Need help? Add my discord: m.otion 
 
